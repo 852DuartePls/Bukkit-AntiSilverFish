@@ -1,13 +1,19 @@
 # AntiSilverFish plugin
 
-Very Straightforward plugin that prevents Silverfish from spawning in Infested Blocks and re-entering them.
+Very Straightforward plugin that prevents Silverfish from spawning in Infested Blocks and re-entering them.\
+Now also with an option to disable the Infestation Potion Effects for entirely!
 
 ---
+#### **Requirements:**
+- At least Java 21
+- Any Bukkit based server
+- A Permissions plugin (optional) \
+\# That's only to apply changes without restarting the server
 
 #### **Usage:**
-- You want it? ➤ You Install it
-- You don't want it? ➤ You Uninstall it
+- Place the jar file in your plugins folder and start the server
+- Toggle your options in the config.yml file (Everything is enabled by default!)
+- Reload the plugin to apply the changes with /antisilverfish reload
 
-#### **Common Issues:**
-- What if i don't want it in the first place? ➤ You do not download it
-- What if i already downloaded it but turns out i don't want it? ➤ You remove the file
+#### **Command:**
+- /antisilverfish reload - Requires the permission (antisilverfish.admin)
