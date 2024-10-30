@@ -4,3 +4,7 @@ main: me.duart.bukkitAntiSilverFish.AntiSilverFish
 api-version: ${apiVersion}
 authors: [ DaveDuart ]
 description: ${description}
+
+commands:
+  antisilverfish:
+    description: Plugin's main command
