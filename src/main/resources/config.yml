@@ -1,10 +1,10 @@
 # AntiSilverFish Configuration
-# Set to tue of false depending on your preference and then reload with /antisilverfish reload
+# Set to true or false depending on your preference and then reload with /antisilverfish reload
 # Default permission: antisilverfish.admin
 
 # Completely disables any Infestation Potion Effects for everyone
-Disable_infestation_potions: true
-# Prevents Silverfish from spawning when breaking an Infested Blocks
-Disable_silverfish_spawning: true
-# Prevent Silverfish from re-entering Blocks
-Disable_silverfish_reentering: true
+Disable_Infestation_Potions: true
+# Prevents Silverfish from spawning when breaking Infested Blocks
+Disable_Silverfish_Spawning: true
+# Prevents Silverfish from re-entering Blocks
+Disable_Silverfish_Reentering: true
